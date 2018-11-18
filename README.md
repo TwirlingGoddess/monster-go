@@ -6,4 +6,6 @@ part of a code challenge
 
 
 in your terminal
+
 ```git clone ...```
+to clone down this repository
