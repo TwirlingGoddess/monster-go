@@ -17,3 +17,6 @@ part of a code challenge
 ```cd monster-go```
 
 3. Type in your terminal
+
+```go run src/server/main.go```
+
