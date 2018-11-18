@@ -11,4 +11,8 @@ part of a code challenge
 
 ...to clone down this repository.
 
+
+2. Change into the project directory.
+
+
 2. Type in your terminal
