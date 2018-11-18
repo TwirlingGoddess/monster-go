@@ -7,7 +7,7 @@ part of a code challenge
 
 1. Type in your terminal
 
-```git clone ...```
+```git clone git@github.com:TwirlingGoddess/monster-go.git```
 
 ...to clone down this repository.
 
