@@ -20,3 +20,4 @@ part of a code challenge
 
 ```go run src/server/main.go```
 
+...to see the server running on localhost:8080
