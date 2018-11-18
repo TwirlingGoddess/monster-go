@@ -14,5 +14,6 @@ part of a code challenge
 
 2. Change into the project directory.
 
+```cd monster-go```
 
-2. Type in your terminal
+3. Type in your terminal
